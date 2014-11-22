@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+    <title>Ounage Playlist</title>
+    <creator>Dew</creator>
+    <link>http://www.blup.fr/</link>
+    <info>The Best Playlist for Testing</info>
+    <image>covers/tracklist.jpg</image>
+
+    <trackList>
+
+        <track>
+          <location>mp3/test1.mp3</location>
+          <creator>Bedrich Smetana</creator>
+          <album>Carry Me</album>
+          <title>Carry Me</title>
+          <annotation>I love this song</annotation>
+          <duration>32000</duration>
+          <image>covers/1.jpg</image>
+          <info></info>
+          <link>http://fr.wikipedia.org/wiki/M%C3%A1_Vlast_(Smetana)</link>
+        </track>
+        
+        <track>
+          <location>mp3/test2.mp3</location>
+          <creator>Antonin Dvorak</creator>
+          <album>Forever</album>
+          <title>Forever</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image>covers/2.jpg</image>
+          <info></info>
+          <link>http://fr.wikipedia.org/wiki/Cesaria_Evora</link>
+        </track>
+        
+        <track>
+          <location>mp3/test3.mp3</location>
+          <creator>Jean-Claude Petit</creator>
+          <album>You Are My World</album>
+          <title>You Are My World</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image>covers/3.jpg</image>
+          <info></info>
+          <link></link>
+        </track>
+
+        <track>
+          <location>mp3/test4.mp3</location>
+          <creator>Antonin Dvorak</creator>
+          <album>Give You My Heart</album>
+          <title>Give You My Heart</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image>covers/2.jpg</image>
+          <info></info>
+          <link>http://fr.wikipedia.org/wiki/Cesaria_Evora</link>
+        </track>
+        
+        <track>
+          <location>mp3/test5.mp3</location>
+          <creator>Jean-Claude Petit</creator>
+          <album>You Are Near</album>
+          <title>You Are Near</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image>covers/3.jpg</image>
+          <info></info>
+          <link></link>
+        </track>
+
+                <track>
+          <location>mp3/test6.mp3</location>
+          <creator>Antonin Dvorak</creator>
+          <album>Dwelling Places</album>
+          <title>Dwelling Places</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image>covers/2.jpg</image>
+          <info></info>
+          <link>http://fr.wikipedia.org/wiki/Cesaria_Evora</link>
+        </track>
+        
+        <track>
+          <location>mp3/test7.mp3</location>
+          <creator>Jean-Claude Petit</creator>
+          <album>My Greatest Love Is You</album>
+          <title>My Greatest Love Is You</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image>covers/3.jpg</image>
+          <info></info>
+          <link></link>
+        </track>
+
+                <track>
+          <location>mp3/test8.mp3</location>
+          <creator>Antonin Dvorak</creator>
+          <album>Eagles Wings</album>
+          <title>Eagles Wings</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image>covers/2.jpg</image>
+          <info></info>
+          <link>http://fr.wikipedia.org/wiki/Cesaria_Evora</link>
+        </track>
+        
+        <track>
+          <location>mp3/test9.mp3</location>
+          <creator>Jean-Claude Petit</creator>
+          <album>Show Me Your Ways</album>
+          <title>Show Me Your Ways</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image>covers/3.jpg</image>
+          <info></info>
+          <link></link>
+        </track>
+
+                <track>
+          <location>mp3/test10.mp3</location>
+          <creator>Antonin Dvorak</creator>
+          <album>Agnes Dei</album>
+          <title>Agnes Dei</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image>covers/2.jpg</image>
+          <info></info>
+          <link>http://fr.wikipedia.org/wiki/Cesaria_Evora</link>
+        </track>
+        
+        <track>
+          <location>mp3/test11.mp3</location>
+          <creator>Jean-Claude Petit</creator>
+          <album>don' t let me down (stereophonics)</album>
+          <title>don' t let me down (stereophonics)</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image>covers/3.jpg</image>
+          <info></info>
+          <link></link>
+        </track>
+
+                <track>
+          <location>mp3/test12.mp3</location>
+          <creator>Antonin Dvorak</creator>
+          <album>The Scenery Begins</album>
+          <title>The Scenery Begins</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image>covers/2.jpg</image>
+          <info></info>
+          <link>http://fr.wikipedia.org/wiki/Cesaria_Evora</link>
+        </track>
+        
+        <track>
+          <location>mp3/test13.mp3</location>
+          <creator>Jean-Claude Petit</creator>
+          <album>River Flows In You</album>
+          <title>River Flows In You</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image>covers/3.jpg</image>
+          <info></info>
+          <link></link>
+        </track>
+
+                <track>
+          <location>mp3/test14.mp3</location>
+          <creator>Antonin Dvorak</creator>
+          <album>Falling</album>
+          <title>Falling</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image>covers/2.jpg</image>
+          <info></info>
+          <link>http://fr.wikipedia.org/wiki/Cesaria_Evora</link>
+        </track>
+        
+        <track>
+          <location>mp3/test15.mp3</location>
+          <creator>Jean-Claude Petit</creator>
+          <album>The Moment</album>
+          <title>The Moment</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image>covers/3.jpg</image>
+          <info></info>
+          <link></link>
+        </track>
+
+                <track>
+          <location>mp3/test16.mp3</location>
+          <creator>Antonin Dvorak</creator>
+          <album>May</album>
+          <title>May</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image>covers/2.jpg</image>
+          <info></info>
+          <link>http://fr.wikipedia.org/wiki/Cesaria_Evora</link>
+        </track>
+        
+        <track>
+          <location>mp3/test17.mp3</location>
+          <creator>Jean-Claude Petit</creator>
+          <album>With the Wind</album>
+          <title>With the Wind</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image>covers/3.jpg</image>
+          <info></info>
+          <link></link>
+        </track>
+
+                <track>
+          <location>mp3/test18.mp3</location>
+          <creator>Antonin Dvorak</creator>
+          <album>Eve</album>
+          <title>Eve</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image>covers/2.jpg</image>
+          <info></info>
+          <link>http://fr.wikipedia.org/wiki/Cesaria_Evora</link>
+        </track>
+        
+        <track>
+          <location>mp3/test19.mp3</location>
+          <creator>Jean-Claude Petit</creator>
+          <album>Present</album>
+          <title>Present</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image>covers/3.jpg</image>
+          <info></info>
+          <link></link>
+        </track>
+
+                <track>
+          <location>mp3/test20.mp3</location>
+          <creator>Antonin Dvorak</creator>
+          <album>Letter</album>
+          <title>Letter</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image>covers/2.jpg</image>
+          <info></info>
+          <link>http://fr.wikipedia.org/wiki/Cesaria_Evora</link>
+        </track>
+        
+        <track>
+          <location>mp3/test21.mp3</location>
+          <creator>Antonin Dvorak</creator>
+          <album>Sky</album>
+          <title>Sky</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image>covers/2.jpg</image>
+          <info></info>
+          <link>http://fr.wikipedia.org/wiki/Cesaria_Evora</link>
+        </track>
+
+    </trackList>
+</playlist>
